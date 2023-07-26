@@ -19,3 +19,4 @@ backend/data/uploaded/*
 appsettings.*
 bin
 microservices-workshop-Debug.json
+.vs

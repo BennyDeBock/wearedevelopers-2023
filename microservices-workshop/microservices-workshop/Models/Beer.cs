@@ -2,7 +2,7 @@
 
 public class Beer
 {
-    public Beer(name string, brewery string?, country string?, price double, abv double, description string?)
+    public Beer(string name, string? brewery, string? country, double price, double abv, string? description)
     {
         this.Id = Guid.NewGuid();
         this.Name = name;
@@ -13,7 +13,7 @@ public class Beer
         this.Description = description;
     }
         
-    public uuid Id { get; set; }
+    public Guid Id { get; set; }
     public string Name { get; set; }
     
     public string? Brewery { get; set; }

@@ -3,7 +3,7 @@
 public class Order
 {
 
-    public Order(customerName string, customerAddress string, quantity int, price decimal, total decimal, orderDate DateTime)
+    public Order(string customerName, string customerAddress, int quantity, decimal price, decimal total, DateTime orderDate)
     {
         this.Id = Guid.NewGuid();
         this.CustomerName = customerName;
@@ -11,14 +11,11 @@ public class Order
         this.Quantity = quantity;
         this.Price = price;
         this.Total = total;
-        this.OrderDate = orderDate;
-    }
-    {
-        OrderDate = DateTime.Now;
+        this.OrderDate = DateTime.Now;
     }
     // Metadata
     
-    public uuid Id { get; set; }
+    public Guid Id { get; set; }
     public string CustomerName { get; set; }
     public string CustomerAddress { get; set; }
     

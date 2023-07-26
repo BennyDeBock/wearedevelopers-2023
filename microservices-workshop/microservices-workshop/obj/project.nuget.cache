@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "P7KbmB+QPYD//6eqrVJrGn8/GJdRrhocZac8YrjAPb8SL/skL1xmVqTCqiC/tnnsE6h1iVRMW52JKmHAfRXphQ==",
+  "success": true,
+  "projectFilePath": "/Users/bennydebock/Desktop/WeAreDev/wearedevelopers-2023/microservices-workshop/microservices-workshop/microservices-workshop.csproj",
+  "expectedPackageFiles": [
+    "/Users/bennydebock/.nuget/packages/microsoft.aspnetcore.openapi/7.0.9/microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "/Users/bennydebock/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/bennydebock/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/bennydebock/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/bennydebock/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/bennydebock/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/bennydebock/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

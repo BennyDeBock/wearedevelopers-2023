@@ -15,3 +15,7 @@ backend/data/uploaded/*
 .idea/*
 
 !/**/.gitkeep
+
+appsettings.*
+bin
+microservices-workshop-Debug.json

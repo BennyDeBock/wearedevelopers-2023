@@ -22,7 +22,7 @@ public class OrderController : ControllerBase
     }
 
     [HttpGet(Name = "ChangeOrderStatus")]
-    public IEnumerable<Order> Patch()
+    public IEnumerable<Order> Patch(Order order)
     {
         return null;
     }

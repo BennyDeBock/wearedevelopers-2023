@@ -70,5 +70,8 @@ This command doesn't usually help you a lot as you want to know which changes ha
 *"What errors were or are commonly created by this code or code related to it that I should be aware of before changing?"*
 
 ## Ask yourself the question: *"What do you want to ask your code?"*
-[Slides](https://speakerdeck.com/schacon/ask-your-code)
+What frustrates you with version control/your tools? How do you want it to work?
+
+
+[Slides](https://speakerdeck.com/schacon/ask-your-code)  
 [Book 'Pro Git' by Scott Chacon & Ben Straub](https://git-scm.com/book)

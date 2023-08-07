@@ -1,0 +1,1 @@
+https://speakerdeck.com/feststelltaste/wardley-maps-for-software-developers-wearedevelopers-world-congress-2023?slide=19

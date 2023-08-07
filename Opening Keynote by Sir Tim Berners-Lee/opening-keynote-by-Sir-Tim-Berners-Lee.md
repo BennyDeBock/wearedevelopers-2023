@@ -1,0 +1,1 @@
+https://www.w3.org/2023/Talks/0727-wearedevelopers-tbl/solid-for-devs.html#(1)

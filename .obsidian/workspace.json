@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "1eae4b350291d33d",
+    "type": "split",
+    "children": [
+      {
+        "id": "751261e08982e48d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7f2ae742879a86",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31bd240a9c925524",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d3b8f0d151c3378",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9a5d9c22fc58627",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dced5139b7a51798",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a902f5d7f75ed312",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a511206f12543a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ecff83ca733fce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78e2d9e63adb7ad3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "495d932be93713d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4630d5e6f0f2a95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "183865d2b8f7c85e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9c7f2ae742879a86",
+  "lastOpenFiles": [
+    "how-to-start-with-cypress/README.md",
+    "how-to-start-with-cypress/PT notes.md",
+    "filiphric/cypress-plugin-api.md",
+    "filiphric",
+    "microservices-workshop/Workshop notes.md",
+    "dotNet-and-Azure-to-build-and-deploy-microservices-architecture/Workshop notes.md",
+    "microservices-workshop/microservices-workshop/obj/Debug/net7.0/project.razor.json",
+    "microservices-workshop/microservices-workshop/obj/Debug/net7.0/microservices-workshop.GlobalUsings.g.cs",
+    "microservices-workshop/microservices-workshop/obj/Debug/net7.0/microservices-workshop.GeneratedMSBuildEditorConfig.editorconfig",
+    "microservices-workshop/microservices-workshop/obj/Debug/net7.0/microservices-workshop.csproj.AssemblyReference.cache",
+    "microservices-workshop/microservices-workshop/obj/Debug/net7.0/microservices-workshop.assets.cache",
+    "microservices-workshop/microservices-workshop/obj/Debug/net7.0/microservices-workshop.AssemblyInfoInputs.cache",
+    "microservices-workshop/microservices-workshop/obj/Debug/net7.0/microservices-workshop.AssemblyInfo.cs",
+    "microservices-workshop/microservices-workshop/obj/Debug/net7.0",
+    "microservices-workshop/microservices-workshop/Properties/launchSettings.json"
+  ]
+}
